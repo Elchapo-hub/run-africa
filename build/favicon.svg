@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Run Africa</title>
+  <rect width="64" height="64" rx="18" fill="#e62929"/>
+  <path fill="#efbd75" d="m19 8 5-1 6 2 5-1 6 3 4 1 2 5 5 5-2 5-4 3-1 6-3 3-2 6-5 8-4 7-4-3-2-6-3-4-2-5-2-4-3-3-1-5-3-4 1-5-1-4 4-3 2-4 4-2z"/>
+  <path fill="#8f2522" d="M25 25h10c5 0 8 3 8 7 0 3-2 6-5 7l5 8h-7l-4-7h-1v7h-6zm6 5v5h3c2 0 3-1 3-3s-1-2-3-2z"/>
+  <ellipse cx="49" cy="47" rx="1.6" ry="3.2" transform="rotate(18 49 47)" fill="#efbd75"/>
+</svg>
