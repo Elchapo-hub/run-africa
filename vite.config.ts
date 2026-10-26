@@ -14,5 +14,8 @@ export default defineConfig({
     // Redirect TanStack Start's bundled server entry to src/server.ts (our SSR error wrapper).
     // nitro/vite builds from this
     server: { entry: "server" },
+    // Emit HTML files for the public routes so the production output can be hosted
+    // directly by Apache/XAMPP as a static React website.
+    prerender: { enabled: true, crawlLinks: true },
   },
 });
